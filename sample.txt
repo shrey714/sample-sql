@@ -1,1 +1,5 @@
-I’m working on adding a new screen (xxx) in the Risk Adjustment GUI, and I need some information for that. Can we connect sometime today to go over it?
+Title:
+PLA – S1 & S2 Screens Requirement Discussion
+
+Description:
+Discussion on requirements for two new screens (S1 and S2) in PLA.
